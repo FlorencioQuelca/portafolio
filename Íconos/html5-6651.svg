@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<path d="M 45 0 C 20.147 0 0 20.147 0 45 c 0 24.853 20.147 45 45 45 s 45 -20.147 45 -45 C 90 20.147 69.853 0 45 0 z M 61.225 63.995 L 44.976 68.5 l -16.204 -4.498 L 25.161 23.5 h 39.679 L 61.225 63.995 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<polygon points="45.02,31.93 45,31.93 32.56,31.93 32.68,33.27 33.9,46.96 45,46.96 45.02,46.96 51.11,46.96 50.54,53.4 45,54.89 45,54.9 44.99,54.9 39.46,53.4 39.11,49.44 36.42,49.44 34.12,49.44 34.82,57.24 44.99,60.06 45.02,60.06 45.02,60.06 55.18,57.24 55.26,56.4 56.42,43.32 56.54,41.99 55.21,41.99 45.02,41.99 45,41.99 38.44,41.99 37.99,36.9 45,36.9 45.02,36.9 56.98,36.9 57,36.9 57.1,35.79 57.32,33.27 57.44,31.93 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+</g>
+</svg>
